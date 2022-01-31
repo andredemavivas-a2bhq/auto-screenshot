@@ -1,0 +1,1 @@
+"C:\xampp\php\php.exe" -f "C:\Users\50_Remote_DT\Desktop\AUTOSSFEATURE\auto-screenshot.php"
